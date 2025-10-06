@@ -42,6 +42,7 @@ Realiza una predicción
   "sulphates": 0.56,
   "alcohol": 9.4
 }
+```
 
 **Request:**
 
