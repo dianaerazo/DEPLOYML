@@ -45,20 +45,23 @@ Realiza una predicción
 ```
 
 **Request:**
-
+```json
 {
   "quality": "low",
   "probability_low": 0.85,
   "probability_high": 0.15,
   "confidence": 0.85
 }
+```
 
 Uso Local
+```
 pip install -r requirements.txt
 python app.py
+```
 
 URL de Producción
-https://TU-USUARIO.pythonanywhere.com
+https://dianaerazo.pythonanywhere.com
 
 Fecha de Deployment
 [05/10/2025]
